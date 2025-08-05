@@ -1,0 +1,13 @@
+# FX Risk Model Configuration Example
+model:
+  type: heston
+  params:
+    kappa: 2.0
+    theta: 0.01
+    sigma: 0.1
+    rho: -0.7
+    r: 0.0
+    S0: 1.0
+    v0: 0.01
+    T: 1.0
+    N: 252
