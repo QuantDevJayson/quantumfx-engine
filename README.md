@@ -112,13 +112,12 @@ streamlit run fx_risk/streamlit_app.py
 
 
 
-**Feel Free to Contact Original Author:**
-
-## Contact the Author
+### Feel Free to Contact Original Author
 
 - **GitHub**: [QuantDevJayson](https://github.com/QuantDevJayson)  
 - **PyPI**: [jayson.ashioya](https://pypi.org/user/jayson.ashioya)  
 - **LinkedIn**: [Jayson Ashioya](https://www.linkedin.com/in/jayson-ashioya-c-082814176/)
+
 
 
 
