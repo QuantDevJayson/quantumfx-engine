@@ -73,20 +73,26 @@ All models are accessible from the sidebar dropdown in the Streamlit app. Models
 
 Below are screenshots of the QuantumFX Streamlit dashboard, demonstrating the model selection, analytics, and visualization features:
 
+
 <img width="870" height="422" alt="quantumfx-model-scenario-engine" src="https://github.com/user-attachments/assets/8bbc811e-ec1a-4e58-825d-ca313201829b" />
+
+---
 
 <img width="870" height="422" alt="quantumfx-model-scenario-engine" src="https://github.com/user-attachments/assets/daeb181a-75dd-46da-b132-006fcf27e6b8" />
 
+---
+
 <img width="592" height="373" alt="quantumfx-simulated-garch" src="https://github.com/user-attachments/assets/609f0c74-cb67-4269-bb0f-a2ed41d96c53" />
+
+---
 
 <img width="875" height="419" alt="quantumfx-interpret" src="https://github.com/user-attachments/assets/fa3eca1b-c3da-4803-b9c6-956686b88796" />
 
+---
+
 <img width="704" height="450" alt="quantumfx-ewma-var-exceedances" src="https://github.com/user-attachments/assets/fa98af62-ddf5-4016-8142-8c2cd2df9d8a" />
 
-
-| Model Selection & Sidebar | FX Model Simulation | Model Dropdown | Interpretation & Correlation | Stress Testing | EWMA VaR Plot |
-|--------------------------|---------------------|---------------|-----------------------------|---------------|--------------|
-| ![Sidebar](screenshots/sidebar.png) | ![Simulation](screenshots/simulation.png) | ![Dropdown](screenshots/dropdown.png) | ![Interpretation](screenshots/interpretation.png) | ![Stress](screenshots/stress.png) | ![EWMA](screenshots/ewma.png) |> Place your screenshots in the `screenshots/` directory with the above filenames for best results.
+---
 
 ## Contributing
 This project is under active development by the author and contributors. Thus, new features and improvements are added regularly.
@@ -113,5 +119,6 @@ streamlit run fx_risk/streamlit_app.py
 - **GitHub**: [QuantDevJayson](https://github.com/QuantDevJayson)  
 - **PyPI**: [jayson.ashioya](https://pypi.org/user/jayson.ashioya)  
 - **LinkedIn**: [Jayson Ashioya](https://www.linkedin.com/in/jayson-ashioya-c-082814176/)
+
 
 
